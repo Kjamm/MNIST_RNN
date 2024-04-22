@@ -1,1 +1,1 @@
-# MNIST_RNN
+RNN model using the MNIST dataset
